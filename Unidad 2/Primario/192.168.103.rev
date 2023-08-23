@@ -1,0 +1,30 @@
+$ttl 3600
+103.168.192.in-addr.arpa.	IN	SOA	PC116. navidadgarcia\.juancarlos.loscerros.org. (
+			1634884675
+			3600
+			600
+			1209600
+			3600 )
+103.168.192.in-addr.arpa.	IN	NS	PC116.
+116.103.168.192.in-addr.arpa.	IN	PTR	servidor.aulaSER116.com.
+100.103.168.192.in-addr.arpa.	IN	PTR	profesor.aulaSER116.com.
+101.103.168.192.in-addr.arpa.	IN	PTR	pc103-101.aulaSER116.com.
+102.103.168.192.in-addr.arpa.	IN	PTR	pc103-102.aulaSER116.com.
+103.103.168.192.in-addr.arpa.	IN	PTR	pc103-103.aulaSER116.com.
+104.103.168.192.in-addr.arpa.	IN	PTR	pc103-104.aulaSER116.com.
+105.103.168.192.in-addr.arpa.	IN	PTR	pc103-105.aulaSER116.com.
+106.103.168.192.in-addr.arpa.	IN	PTR	pc103-106.aulaSER116.com.
+107.103.168.192.in-addr.arpa.	IN	PTR	pc103-107.aulaSER116.com.
+108.103.168.192.in-addr.arpa.	IN	PTR	pc103-108.aulaSER116.com.
+109.103.168.192.in-addr.arpa.	IN	PTR	pc103-109.aulaSER116.com.
+110.103.168.192.in-addr.arpa.	IN	PTR	pc103-110.aulaSER116.com.
+111.103.168.192.in-addr.arpa.	IN	PTR	pc103-111.aulaSER116.com.
+112.103.168.192.in-addr.arpa.	IN	PTR	pc103-112.aulaSER116.com.
+113.103.168.192.in-addr.arpa.	IN	PTR	pc103-113.aulaSER116.com.
+114.103.168.192.in-addr.arpa.	IN	PTR	pc103-114.aulaSER116.com.
+115.103.168.192.in-addr.arpa.	IN	PTR	pc103-115.aulaSER116.com.
+117.103.168.192.in-addr.arpa.	IN	PTR	pc103-117.aulaSER116.com.
+118.103.168.192.in-addr.arpa.	IN	PTR	pc103-118.aulaSER116.com.
+119.103.168.192.in-addr.arpa.	IN	PTR	pc103-119.aulaSER116.com.
+120.103.168.192.in-addr.arpa.	IN	PTR	pc103-120.aulaSER116.com.
+189.103.168.192.in-addr.arpa.	IN	PTR	virtual.aulaSER116.com.
